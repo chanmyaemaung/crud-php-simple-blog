@@ -9,3 +9,6 @@ This is the easiest way that I created in order to refrence by myself. As a matt
 ### What I'am using in this blog?
 
 > I'm used in this blog MySQL and stylished with bootstrap latest version through CDN.
+
+### Download MySQL DB [Click Here!](http://bit.ly/2Vr8hl2 "Database Backup")
+> This file is simple 4 column MySQL databases. You can download and Import into your phpadmin in order to you do with test it out!
