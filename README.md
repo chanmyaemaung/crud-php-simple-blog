@@ -1,6 +1,6 @@
 ### About this simple blog
 
-This is the easiest way that I created inroder to refrence by myself. As a matter of fact, I haven't planned to do this simple **CRUD Blog** by coded with PHP.
+This is the easiest way that I created in order to refrence by myself. As a matter of fact, I haven't planned to do this simple **CRUD Blog** by coded with PHP.
 
 ### Demo
 
